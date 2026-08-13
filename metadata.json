@@ -1,0 +1,6 @@
+{
+  "name": "Sai Deepak Sarma Portfolio",
+  "description": "Minimalistic responsive portfolio for Sai Deepak Sarma showcasing Computer Science, Local AI, Linux Systems, VFX/3D, Worldbuilding, and Research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
